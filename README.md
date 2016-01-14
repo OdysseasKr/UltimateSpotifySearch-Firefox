@@ -8,5 +8,6 @@ Repository for the Ultimate Spotify Search Firefox add-on
 
 Find it on AMO:
 https://addons.mozilla.org/en-US/firefox/addon/ultimate-spotify-search/
+
 Chrome version:
 https://github.com/OdysseasKr/UltimateSpotifySearch-Chrome
