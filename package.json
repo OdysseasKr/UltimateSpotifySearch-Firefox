@@ -2,10 +2,11 @@
   "title": "Ultimate Spotify Search",
   "name": "ultimatespotifysearch",
   "id":  "spotifyonyoutube@odysseasnotepad.wordpress.com",
-  "version": "3.2.0",
+  "version": "3.2.2",
   "description": "Simplifies search on Spotify with launchers on popular sites and search from right-click",
   "main": "main.js",
   "author": "Odysseas Kristalakos",
+  "homepage": "https://github.com/OdysseasKr/UltimateSpotifySearch-Firefox",
   "engines": {
     "firefox": ">=38.0a1",
     "fennec": ">=38.0a1"
@@ -13,25 +14,24 @@
   "license": "GPLv3",
   "keywords": [
     "jetpack"
-],
+  ],
 
-"icon": "resource://@ultimatespotifysearch/data/icons/icon128.png",
+  "icon": "resource://spotifyonyoutube-at-odysseasnotepad-dot-wordpress-dot-com/data/icons/icon128.png",
 
-"preferences": [{
-      "name": "target",
-      "type": "radio",
-      "title": "Open search results on",
-      "value": "D",
-      "options": [
-          {
-              "value": "D",
-              "label": "Desktop App"
-          },
-          {
-              "value": "W",
-              "label": "Web Player"
-          }
-      ]
-    }
-]
+  "preferences": [{
+    "name": "target",
+    "type": "radio",
+    "title": "Open search results on",
+    "value": "D",
+    "options": [
+      {
+        "value": "D",
+        "label": "Desktop App"
+      },
+      {
+        "value": "W",
+        "label": "Web Player"
+      }
+    ]
+  }]
 }
