@@ -6,5 +6,5 @@ Repository for the Ultimate Spotify Search Firefox add-on
 - Allows search using right-click.
 - Shows results on either desktop app or web player.
 
-Currently on AMO (version 3.1.1):
+Find it on AMO:
 https://addons.mozilla.org/en-US/firefox/addon/ultimate-spotify-search/
