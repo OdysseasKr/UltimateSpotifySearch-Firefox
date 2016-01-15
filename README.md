@@ -1,4 +1,4 @@
-# UltimateSpotifySearch-Firefox 3.2.2 ![logo](https://raw.githubusercontent.com/OdysseasKr/UltimateSpotifySearch-Firefox/master/data/icons/icon64.png)
+# Ultimate Spotify Search for Firefox ![logo](https://raw.githubusercontent.com/OdysseasKr/UltimateSpotifySearch-Firefox/master/data/icons/icon64.png)
 Repository for the Ultimate Spotify Search Firefox add-on
 
 - Simplifies search on Spotify.
